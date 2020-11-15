@@ -1,7 +1,7 @@
 {
   "name": "nested-services",
   "version": "1.0.0",
-  "description": "Multi service",
+  "description": "Multi service demo 1",
   "main": "handler.js",
   "dependencies": {},
   "devDependencies": {
